@@ -1,0 +1,1 @@
+Please provide a user description for the emoji generation. I will rephrase it into a long prompt with added details using the specified addon phrases.

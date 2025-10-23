@@ -1,0 +1,5 @@
+emoji of a clock face pointing towards the top. 
+   . centered on the clock face are large, circular hour markers with thick black outlines and bright red fill color.
+   . between each hour marker are thin white lines that represent the divisions between hours.
+   . at the center of the clock face is a small, circular dial with a dark blue border and a light gray background. 
+   3D lighting. no cast shadows.

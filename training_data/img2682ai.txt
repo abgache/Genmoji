@@ -1,0 +1,5 @@
+Here is a long prompt for an emoji generation image model based on the user's description:
+
+emoji of slice of delicious savory apple pie with golden brown crust, flaky edges, and a hint of cinnamon in the filling. cute. detailed texture. 3D lighting. no cast shadows.
+
+I added "cute." to make it clear that this is not an object but rather a food item, and included "detailed texture" to emphasize the importance of realistic texture details in the emoji.

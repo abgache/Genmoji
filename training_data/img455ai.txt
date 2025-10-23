@@ -1,0 +1,5 @@
+I'll help create a long prompt for an Emoji generation image model.
+
+However, I need more information about the user's description. Please provide me with the user's input so I can rephrase it according to your requirements. 
+
+Once you give me the description, I will generate a long prompt in the specified format: "emoji of *description*. *addon phrases*. 3D lighting. no cast shadows."
