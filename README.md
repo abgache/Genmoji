@@ -36,7 +36,7 @@ You also need to have [python 3.10](https://www.python.org/downloads/release/pyt
 **Enhanced Prompt :** ``emoji of an astronaut wearing a white spacesuit with bright blue accents, a bold silver helmet, and a red oxygen tank on his back. cute. enlarged head in cartoon style. head is turned towards viewer. detailed texture. 3D lighting. no cast shadows.``  
 **Generation ID :** ``833972797248``  
 **Generation Time :** ``7min 41s``  
-**Output : **
+**Output :**
 
 ![generation-833972797248](generated-833972797248.png)
 
