@@ -1,0 +1,11 @@
+torch
+numpy
+diffusers
+peft
+Pillow
+requests
+google-generativeai
+fastapi
+pydantic
+uvicorn
+psutil
