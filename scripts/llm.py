@@ -30,4 +30,5 @@ def local_ai(prompt: str, model: str = "llama3.1:8b", port=11434, error=True):
             return None
 
 if __name__ == "__main__": 
-    print(f"User: Explain how Artificial Intelligence works.\nLLaMa:\n{local_ai('Explain how Artificial Intelligence works.')}\nGemini:\n{gemini_ai('Explain how Artificial Intelligence works.', api_keya='AIzaSyCRV8XOQtnhUpXltHQDskK05LVJbc3z0Wc')}")
+
+    print(f"User: Explain how Artificial Intelligence works.\nLLaMa:\n{local_ai('Explain how Artificial Intelligence works.')}\nGemini:\n{gemini_ai('Explain how Artificial Intelligence works.', api_keya=input("Please enter your google API key > "))}")
