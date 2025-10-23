@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 python main.py
 ```  
-### args  
+### Arguments  
 ``--train`` = to train the model  
 ``--overwrite`` = if added, the script will regenerate the enhanced trainning prompts  
 ``--server`` = To activate the local API  
