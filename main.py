@@ -37,12 +37,14 @@ gen = "--generate" in sys.argv or "-g" in sys.argv
 
 discord_webhook = "" # Just leave it empty if you don't want your logs to be send to discord
 base_model_path = r"I:\sd1.5\diffusion_pytorch_model.safetensors" # <!> Change it by YOUR Stable Diffusion 1.5 model path <!>
+version = 2.0
 new_model_name = "genmoji"
 new_model_path = f"model/{new_model_name}.safetensors"
 
 if __name__ == "__main__":
     print(f"{tlm()} Start of program.")
     logger = logger(discord_webhook)
+    logger.log(f"GenMoji V{str(version)}")
     
     # Check stable diffusion base model path
     if not os.path.exists(base_model_path):
@@ -218,4 +220,5 @@ if __name__ == "__main__":
         # lancer une fonction qui vas tourner a l'infinis avec un port ouvert (qui se ferme avec un localhost:*port*/sleep)
         api = API(pipe)
         api.serve()
+
     logger.log(f"End of program.")
