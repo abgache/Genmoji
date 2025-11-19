@@ -1,4 +1,9 @@
-# Genmoji V2.0  
+# Genmoji V2.0
+
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)  
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0.1-red)](https://pytorch.org/)  
+[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+
 Reproduction of Apple Intelligence Genmoji for apple style emoji generation.  
 Only works with NVIDIA GPUs (no CPU support - do not open any Pull request about that)  
 You'll need to add the ``--train`` argument in the 1st launch or download the model and add it in the ``model\`` path.  
