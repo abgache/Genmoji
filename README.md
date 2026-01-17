@@ -1,7 +1,7 @@
 # Genmoji V2.0
 
-[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-2.0.1-red)](https://pytorch.org/)  
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.0.1-red)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 Reproduction of Apple Intelligence Genmoji for apple style emoji generation.  
